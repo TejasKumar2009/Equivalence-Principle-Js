@@ -1,0 +1,138 @@
+
+ {
+    "PandS": [
+        {
+            "name": "Mercury",
+            "gravity": 3.7
+        },
+        {
+            "name": "Venus",
+            "gravity": 8.87
+        },
+        {
+            "name": "Earth",
+            "gravity": 9.81
+        },
+        {
+            "name": "Mars",
+            "gravity": 3.71
+        },
+        {
+            "name": "Jupiter",
+            "gravity": 24.79
+        },
+        {
+            "name": "Saturn",
+            "gravity": 10.44
+        },
+        {
+            "name": "Uranus",
+            "gravity": 8.69
+        },
+        {
+            "name": "Neptune",
+            "gravity": 11.15
+        },
+        {
+            "name": "Pluto",
+            "gravity": 0.62
+        },
+        {
+            "name": "Sun",
+            "gravity": 274.0
+        },
+        {
+            "name": "Sirius",
+            "gravity": 25.06
+        },
+        {
+            "name": "Canopus",
+            "gravity": 106.1
+        },
+        {
+            "name": "Alpha Centauri A",
+            "gravity": 24.92
+        },
+        {
+            "name": "Vega",
+            "gravity": 61.61
+        },
+        {
+            "name": "Capella",
+            "gravity": 291.9
+        },
+        {
+            "name": "Rigel",
+            "gravity": 649.8
+        },
+        {
+            "name": "Procyon",
+            "gravity": 26.55
+        },
+        {
+            "name": "Betelgeuse",
+            "gravity": 0.15
+        },
+        {
+            "name": "Altair",
+            "gravity": 24.47
+        },
+        {
+            "name": "Achernar",
+            "gravity": 16.12
+        },
+        {
+            "name": "Polaris",
+            "gravity": 56.68
+        },
+        {
+            "name": "Arcturus",
+            "gravity": 34.89
+        },
+        {
+            "name": "Antares",
+            "gravity": 2.46
+        },
+        {
+            "name": "Deneb",
+            "gravity": 46.89
+        },
+        {
+            "name": "Pollux",
+            "gravity": 42.92
+        },
+        {
+            "name": "Aldebaran",
+            "gravity": 56.89
+        },
+        {
+            "name": "Spica",
+            "gravity": 50.87
+        },
+        {
+            "name": "Fomalhaut",
+            "gravity": 26.78
+        },
+        {
+            "name": "Denebola",
+            "gravity": 23.44
+        },
+        {
+            "name": "Regulus",
+            "gravity": 55.85
+        },
+        {
+            "name": "Mimosa (Beta Crucis)",
+            "gravity": 53.99
+        },
+        {
+            "name": "Gacrux (Gamma Crucis)",
+            "gravity": 323.1
+        },
+        {
+            "name": "Alpheratz",
+            "gravity": 32.92
+        }
+    ]
+}
+    
